@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+.App {
+  text-align: center;
+  padding: 20px;
+  height: 100px;
+  width: fit-content;
+ font-family:"poppins", sans-serif; 
+ font-weight: bolder;
+}
+.filter{
+  padding-right: 140px;
+}
+.btn{width:fit-content;
+height: 30px;
+margin: 20px;
+border-radius:10px;
+border: 1px grey;
+color: black;
+cursor: pointer;
+}
+
+.btn-clicked{
+  background-color: rgb(201, 242, 243);
+  color:  rgb(25, 79, 82);
+}
